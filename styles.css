@@ -59,8 +59,8 @@ p{
 }
 #imglogo{
 	max-width:5%;
-	width:auto;
-	height:auto;
+	width:64px;
+	height:64px;
 	float:left;
 }
 .izquierdo a{
