@@ -87,3 +87,8 @@ table, th, td {  /* estilo a la tabla creada en la pagina galeria.html*/
 		width:325px; 
 		height:250px;
 }
+@media only screen and (max-width:620px){
+	.izquierdo, .cuerpo, .derecho {
+		width:100%;
+	}
+}
