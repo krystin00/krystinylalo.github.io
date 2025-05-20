@@ -87,8 +87,20 @@ table, th, td {  /* estilo a la tabla creada en la pagina galeria.html*/
 		width:325px; 
 		height:250px;
 }
-@media only screen and (max-width:620px){
-	.izquierdo, .cuerpo, .derecho {
+
+@media only screen and(max-width:620px) {
+	.izquierdo, .derecho, .cuerpo {
 		width:100%;
+		height:auto;
+
 	}
+.img{
+	width:100%;
+	max-width:400px;
+}
+
+video{
+	width:100%;
+	max-width:400px;
+}
 }
